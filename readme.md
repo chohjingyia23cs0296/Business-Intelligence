@@ -12,12 +12,10 @@ This repository contains the Business Intelligence (BI) project work completed a
 ## Folder Contents / Evidence
 - BI_phase1/
   - BI Project Phase 1.pdf — Phase 1 report (project scoping and initial analysis).
-  - readme.md — placeholder for Phase 1 notes.
 
 - BI_phase2/
   - BI Project phase 2.pdf — Phase 2 report (deeper analysis and intermediate results).
   - BI Project Phase 2 workflow.yxmd — Alteryx workflow used for ETL and transformations.
-  - readme.md — placeholder for Phase 2 notes.
 
 - BI_phase3/
   - BI Project Phase3.pdf — Phase 3 report (further analysis and visualizations).
@@ -25,13 +23,9 @@ This repository contains the Business Intelligence (BI) project work completed a
     - sample_phase3_customer_payments.xlsx — Sample customer payments dataset used in Phase 3.
     - sample_phase3_orders_sellers.csv — Sample orders and sellers dataset used in Phase 3.
     - sample_phase3_sales_product_summary.xlsx — Sample sales/product summary used in Phase 3.
-  - readme.md — placeholder for Phase 3 notes.
 
 - BI_final_phase/
   - BI Project final phase.pdf — Final project report compiling findings, recommendations, and reflections.
-  - readme.md — placeholder for final phase notes.
-
-(Click the files in the repository to view full reports, data, and workflow.)
 
 ## What I Did
 - Scoped the BI project and defined key questions to investigate in Phase 1.
@@ -56,5 +50,3 @@ Working iteratively across phases helped refine the research questions and impro
 - Link directly to important sections (page numbers or headings) inside the PDF reports for faster navigation.
 
 ---
-
-Repository maintained by: chohjingyia23cs0296
